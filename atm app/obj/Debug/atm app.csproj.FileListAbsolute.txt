@@ -1,0 +1,13 @@
+C:\Users\Melih Metin\source\repos\ATM\atm app\bin\Debug\atm app.exe.config
+C:\Users\Melih Metin\source\repos\ATM\atm app\bin\Debug\atm app.exe
+C:\Users\Melih Metin\source\repos\ATM\atm app\bin\Debug\atm app.pdb
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm app.csproj.AssemblyReference.cache
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm_app.Form1.resources
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm_app.Properties.Resources.resources
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm app.csproj.GenerateResource.cache
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm app.csproj.CoreCompileInputs.cache
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm app.exe
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm app.pdb
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm_app.Form2.resources
+C:\Users\Melih Metin\source\repos\ATM\atm app\obj\Debug\atm_app.Form3.resources
